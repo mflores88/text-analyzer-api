@@ -70,3 +70,7 @@ yarn-debug.log*
 
 # Ignore master key
 master.key
+
+# Ignore Ruby Mine files
+./idea
+.generators
